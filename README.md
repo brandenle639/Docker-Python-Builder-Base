@@ -9,7 +9,7 @@ Docker
 
 # To Build the Container
 
-docker build -t pythonbuilder:{Version You Want} {Path of the Docker File}
+docker build -t pythonbuilder:{Version You Want} {Path of the Docker File} --no-cache
 
 # How to Use
 
