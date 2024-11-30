@@ -9,3 +9,5 @@ It doesn't run on it's own it is the base for "Docker-Python-Compiler" to compil
 
 # Notes
 This contains all the depndacies for the make process
+
+I don't own any of the install packages
